@@ -1,4 +1,4 @@
-### Hi there 👋 Bye there 
+### Hi there 👋 Bye there 👋
 
 <!--
 **ryubsmile/ryubsmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
