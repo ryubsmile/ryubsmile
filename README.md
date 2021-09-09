@@ -7,4 +7,4 @@ Jaehyuk Ryu
 
 
 ### Tech
-HTML, CSS, Javascript, TypeScript, React.js, Java, Java Server Pages, MySQL, Python, Django, Raspberry PI, Swift, RobotC
+HTML, CSS, Javascript, TypeScript, React.js, Java, Java Server Pages, MySQL, Python, Django, Raspberry PI, Swift, RobotC, C++, Arduino
