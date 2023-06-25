@@ -5,11 +5,10 @@
 
 - Check [`HERE`](https://ryubsmile.github.io/webface/), where I display all my past/current works.
 
-## `Techs I am keen to:`
+## `Techs I have experience using:`
 
 ### *Frontend*
-- `| HTML | CSS | Javascript |`
-- `| TypeScript | React.js   |`
+- `| HTML | CSS | JavaScript | React.js | TypeScript  |`
 
 ### *Backend*
 - `| Java | JavaServerPages | Python | Django | C++ |`
@@ -17,7 +16,7 @@
 ### *Data*
 - `| MySQL | R |`
 
-### *Miscellaneous*
+### *Hardware / Engineering*
 - `| Raspberry PI | Swift | RobotC | Arduino |`
 
 ## `Hit Me Up!`
