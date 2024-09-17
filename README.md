@@ -2,7 +2,7 @@
 - 👨🏻‍💻 A Web Developer and a Passionate Learner from South Korea
 - 👨🏻‍🎓 Computer Science & Statistics (BSc's in University of Toronto) - In Progress!
 - 💂 Currently in Military Service
-- 📧 ryubsmile@gmail.com
+- 📧 jefff.ryu@gmail.com
 
 ## Hi there ! (๑˃̵ᴗ˂̵)و
 - Check [`here`](https://ryubsmile.github.io/webface/), where I display all my past and current works.
