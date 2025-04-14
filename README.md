@@ -18,5 +18,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=ryubsmile&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryubsmile%2F&count_bg=%23CFA400&title_bg=%230D0D0D&icon=deliveroo.svg&icon_color=%23FBCB48&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-
