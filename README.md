@@ -4,7 +4,7 @@
 - 📧 jefff.ryu@gmail.com / jeff.ryu@mail.utoronto.ca
 
 ## Hi there ! (๑˃̵ᴗ˂̵)و
-- Check [`here`](https://ryubsmile.github.io/webface/), where I display all my past and current works.
+- Check [`here`](https://jeffr.dev/), where I display all my past and current works.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryubsmile)
